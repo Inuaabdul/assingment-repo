@@ -1,0 +1,40 @@
+#header {
+    padding: 20px
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.rows {
+    background-color: rgb(246, 228, 234);
+}
+
+td {
+    text-align: center
+}
+
+.score {
+    background-color: rgb(243, 227, 232);
+    width: 150px;
+    text-align: center;
+    color: black;
+}
+
+
+.head {
+    background-color: rgb(233, 192, 204);
+    height: 50px;
+}
+
+.body:nth-child(2n) {
+    background-color: rgb(164, 69, 98);
+    color: white;
+}
+
+th {
+    font-size: 20px;
+
+}
